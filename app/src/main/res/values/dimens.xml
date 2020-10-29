@@ -5,4 +5,5 @@
     <dimen name="margin_left_titulo_app">40dp</dimen>
     <dimen name="margin_left_prod">30dp</dimen>
     <dimen name="margin_top_prod">15dp</dimen>
+    <dimen name="margin_boton_float">16dp</dimen>
 </resources>

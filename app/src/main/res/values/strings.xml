@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CarroProductos</string>
+    <string name="nombre_del_producto">Nombre del producto</string>
+    <string name="precio_del_producto">precio del Producto</string>
+    <string name="url_del_la_foto">url del la foto</string>
+    <string name="descripcion_del_producto">Descripcion del producto</string>
+    <string name="crear_producto">CREAR PRODUCTO</string>
 </resources>
